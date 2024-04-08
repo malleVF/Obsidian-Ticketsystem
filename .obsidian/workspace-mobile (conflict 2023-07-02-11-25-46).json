@@ -1,0 +1,181 @@
+{
+  "main": {
+    "id": "3053cdbea3f92e1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6102f7db70db53c7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d531362cb6f51fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ticket Dashboard.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d3bd4f5ce99d28e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73291faf2300e036",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Präsentation.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f7d76bb04a4469e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a892ad4f550fe890",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kontakte/Mihai Tuwas.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "071123d6db6b4281",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "73ec762fd9644171",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "3b8d47883aaf47b3",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "2c3a0b2bb9b7c25e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "c8be90cfd89c2a6c",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "99f63597f5de00ad",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "17013224ca7f96f6",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Ticket Dashboard.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "fa6f59827f0f8d96",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Ticket Dashboard.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "2a4d043a7a439369",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Ticket Dashboard.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-plugin-update-tracker:Plugin Update Tracker": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8d531362cb6f51fd",
+  "lastOpenFiles": [
+    "Präsentation.md",
+    "Tickets/202307021031.md",
+    "Ticket Dashboard.md",
+    "Readme.md",
+    "Kontakte/Mihai Tuwas.md",
+    "Adressbuch.md"
+  ]
+}

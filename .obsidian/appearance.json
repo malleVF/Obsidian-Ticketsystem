@@ -1,0 +1,9 @@
+{
+  "accentColor": "#162ff0",
+  "theme": "moonstone",
+  "baseFontSize": 16,
+  "enabledCssSnippets": [
+    "callouts",
+    "wide views"
+  ]
+}

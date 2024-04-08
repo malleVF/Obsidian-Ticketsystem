@@ -1,0 +1,37 @@
+.callout[data-callout="grey"] {
+    --callout-color: 169,169,169;
+    --callout-icon:"";
+}
+
+.callout[data-callout="red"] {
+    --callout-color: var(--color-red-rgb);
+/*    --callout-border-width: 2px; */
+/*    --callout-title-size: 16px; */
+    --callout-icon:"";
+}
+
+.callout[data-callout="orange"] {
+    --callout-color: var(--color-orange-rgb);
+    --callout-icon:"";
+}
+
+.callout[data-callout="yellow"] {
+    --callout-color: var(--color-yellow-rgb);
+    --callout-icon:"";
+}
+
+.callout[data-callout="green"] {
+    --callout-color: var(--color-green-rgb);
+    --callout-icon:"";
+}
+
+.callout[data-callout="blue"] {
+    --callout-color: var(--color-blue-rgb);
+    --callout-icon:"";
+}
+
+.callout[data-callout="white"] {
+    --callout-color: var(--color-white-rgb);
+    --callout-icon:"";
+}
+

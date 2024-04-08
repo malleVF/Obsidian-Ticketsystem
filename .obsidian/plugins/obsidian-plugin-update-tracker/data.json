@@ -1,0 +1,33 @@
+{
+  "daysToSuppressNewUpdates": 0,
+  "dismissedVersionsByPluginId": {
+    "obsidian-advanced-uri": {
+      "pluginId": "obsidian-advanced-uri",
+      "pluginRepoPath": "Vinzent03/obsidian-advanced-uri",
+      "dismissedVersions": [
+        {
+          "versionNumber": "1.36.4",
+          "versionName": "1.36.4",
+          "publishedAt": "2023-07-17T20:54:05Z"
+        }
+      ]
+    },
+    "obsidian-tasks-plugin": {
+      "pluginId": "obsidian-tasks-plugin",
+      "pluginRepoPath": "obsidian-tasks-group/obsidian-tasks",
+      "dismissedVersions": [
+        {
+          "versionNumber": "4.3.0",
+          "versionName": "4.3.0: Regular Expressions bug-fixing and usability",
+          "publishedAt": "2023-07-17T14:25:08Z"
+        }
+      ]
+    }
+  },
+  "showIconOnMobile": true,
+  "excludeBetaVersions": true,
+  "excludeDisabledPlugins": false,
+  "minUpdateCountToShowIcon": 0,
+  "hoursBetweenCheckingForUpdates": 0.5,
+  "hideIconIfNoUpdatesAvailable": false
+}

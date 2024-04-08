@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"type":"file","file":"Adressbuch.md","id":"31447f44ec062ef3","x":-1180,"y":-880,"width":890,"height":380},
+		{"type":"file","file":"Ticket Dashboard.md","id":"c9a5589453e40209","x":-900,"y":-160,"width":1690,"height":620},
+		{"type":"file","file":"Präsentation.md","id":"5c0789ccce75bc97","x":-80,"y":-984,"width":920,"height":589},
+		{"type":"file","file":"Workflow.md","id":"9aea1ff72a73148e","x":-1020,"y":-460,"width":1460,"height":260}
+	],
+	"edges":[]
+}

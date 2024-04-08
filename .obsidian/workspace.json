@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "da2db0d8febfb558",
+    "type": "split",
+    "children": [
+      {
+        "id": "4234109762cd2209",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4992561d203d7442",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adressbuch.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6a48fa4efae7f0ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "a20fbf0005872cd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74e1c9983744bc1e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0ad368ed29ba0a97",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "14f00864db0943b5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "5294e116533b8e5d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 264.5
+  },
+  "right": {
+    "id": "7608b1954f941cbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d5c250f2c30affd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a3b1de680ccd8f3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Adressbuch.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2b48a9aac85cd5f2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Adressbuch.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "afbbdf27e8e55f5f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "98dfc85ba4353020",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Adressbuch.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "74e1c9983744bc1e",
+  "lastOpenFiles": [
+    "0 Templates/Kontaktformular v3.md",
+    "Adressbuch.md",
+    "Ticket Dashboard.md",
+    "0 Templates/Buttons.md",
+    "📚 Readme.md",
+    "Kontakte/Herold Flott.md",
+    "Tickets/202404082043.md",
+    "0 Templates/Ticketformular v1.1.md",
+    "Kontakte/Vicky Losandros.md",
+    "Kontakte/Markus Malwareski.md",
+    "Kontakte/Julia Backe.md",
+    "Kontakte/Hansi Fischer.md",
+    "Kontakte/Hans Dampf.md",
+    "Kontakte/Armin Bayern.md",
+    "Kontakte/Andrea Anders.md",
+    "Tickets/202307232054.md",
+    "Tickets/202307012122.md",
+    "Tickets/202307231532.md",
+    "Tickets/202404032110.md",
+    "Tickets/202307021740.md",
+    "Tickets/202307061846.md",
+    "2024-04-03.md",
+    "0 Templates/Kontaktformular v3.1.md",
+    "0 Templates/Ticketformular v1.md",
+    "Butten Exec.md",
+    "Kontakte/e3 e3.md",
+    "canvas.canvas",
+    "mermaid,How does it work - Help - Obsidian Forum.url",
+    "ian-schneider-TamMbr4okv4-unsplash(2).jpg",
+    "Minetest - Open source voxel game engine/8-thumb.jpg",
+    "Minetest - Open source voxel game engine/8-thumb(2).jpg",
+    "Minetest - Open source voxel game engine/8-thumb(1).jpg",
+    "Minetest - Open source voxel game engine/7-thumb.jpg",
+    "Minetest - Open source voxel game engine/7-thumb(2).jpg",
+    "Minetest - Open source voxel game engine/7-thumb(1).jpg",
+    "Minetest - Open source voxel game engine/6-thumb.jpg",
+    "Minetest - Open source voxel game engine/6-thumb(2).jpg",
+    "Minetest - Open source voxel game engine/6-thumb(1).jpg",
+    "Minetest - Open source voxel game engine",
+    "Untitled",
+    "Tickets",
+    "Kontakte",
+    "0 Templates"
+  ]
+}

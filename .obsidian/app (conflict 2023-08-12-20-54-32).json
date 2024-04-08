@@ -1,0 +1,9 @@
+{
+  "readableLineLength": true,
+  "promptDelete": false,
+  "spellcheckLanguages": [
+    "de",
+    "en-GB"
+  ],
+  "livePreview": false
+}
